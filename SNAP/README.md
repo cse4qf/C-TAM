@@ -7,7 +7,7 @@ person in the household reports receiving $1,000 in benefits for four months,
 everyone in the household will report the same.
 
 Target data for the imputation came from official [SNAP data](https://www.fns.usda.gov/sites/default/files/ops/Characteristics2014.pdf).
-In Fiscal Year 2014, an average of 22.74 million households claimed about
+In Fiscal Year 2015, an average of 22.74 million households claimed about
 $70 billion in benefits.
 
 ## Imputation Procedure
